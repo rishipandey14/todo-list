@@ -21,13 +21,13 @@
 
 <h2>🖼 Preview</h2>
 <p align="center">
-    <img src="first.png" alt="To-Do List Preview" width="500">
+    <img src="./assets/first.png" alt="To-Do List Preview" width="500">
 </p>
 
 <h2>🚀 How to Use</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/todo-list.git</code></pre>
+        <pre><code>git clone https://github.com/rishipandey14/todo-list.git</code></pre>
     </li>
     <li>Open <code>index.html</code> in your browser.</li>
     <li>Add tasks using the input field and click "Add Task".</li>
@@ -41,11 +41,12 @@
     <li>JavaScript</li>
 </ul>
 
-<h2>📜 License</h2>
-<p>This project is licensed under the MIT License.</p>
 
 <h2>📬 Contact</h2>
-<p>For any issues or feedback, feel free to reach out.</p>
+<ul>
+    <li>Email: <a href="mailto:work.rishi14@gmail.com">work.rishi14@gmail.com</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/rishipandey14/" target="_blank">rishipandey_14</a></li>
+</ul>
 
 </body>
 </html>
